@@ -180,7 +180,7 @@ nav a:hover {
     border-radius: 10px;
     background-color: transparent;
     border: 2px solid var(--dark);
-    transition: all 200ms ease-in-out;
+    transition: all 200ms ;
 }
 
 .btn:hover{
